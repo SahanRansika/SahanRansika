@@ -34,9 +34,9 @@
 
 
 ---
-
+<p align="center">
    👨‍💻 All of my projects are available at  https://portfolio-01-git-style-sahan-ransikas-projects.vercel.app 
-
+</p>
    <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
