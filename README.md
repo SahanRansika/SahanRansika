@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sahan Wickramaarachchi</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;++;from+Sri+Lanka,;Computer+Science+Student,;in+IJSE,;I+Would+like+to,;Learn+with+a+new+stuffs..<3"></a>
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer+from+Sri+Lanka;Higher+National+Diploma+Student+in+IJSE;I+Would+like+to+Learn+with+a+new+stuffs..<3"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanransika&label=Profile%20views&color=0e75b6&style=flat" alt="sahanransika" /> </p>
 
