@@ -31,14 +31,10 @@
 </table>
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 300px>
+  <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200>
 
 ---
-<!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hello There%20<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
-</div>
+
 <p align="center">
    👨‍💻 All of my projects are available at  https://portfolio-01-git-style-sahan-ransikas-projects.vercel.app 
 </p>
