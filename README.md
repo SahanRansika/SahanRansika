@@ -34,7 +34,7 @@
   <img align="center" alt="Coding" width="450" height="500px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
     </td>
   <td width="50%" align="center">
-  <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "200px" height="100px">
+  <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "100" height="100px">
     </td>
 </table>
 
