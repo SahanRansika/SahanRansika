@@ -1,4 +1,4 @@
-<p align="center" > <img align="right" height="100px" width= "120px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></p>
+<p align="center" > <img height="100px" width= "120px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></p>
 <h1 align="center">Hi 👋, I'm Sahan Wickramaarachchi</h1>
 
 <p align="center">
